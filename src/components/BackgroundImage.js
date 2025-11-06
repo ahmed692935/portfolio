@@ -110,7 +110,8 @@ const BackgroundImage = () => {
 
           <div className="pt-10 px-0 sm:px-16 flex justify-start">
             <a
-              href="https://drive.google.com/file/d/1QzYtPYg7MNhzNIb8CmxFHihXU46wglTp/view?usp=sharing"
+              // href="https://drive.google.com/file/d/1QzYtPYg7MNhzNIb8CmxFHihXU46wglTp/view?usp=sharing"
+              href="https://drive.google.com/file/d/1LZPoCqMwXZ6HE_YJJPty-JaTezAIKKfG/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-transparent text-white px-6 py-3 rounded-md font-bold hover:bg-customRed border border-customRed font-montserrat"
