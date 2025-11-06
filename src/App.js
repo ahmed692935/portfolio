@@ -1,24 +1,22 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import './App.css';
-import Main from './pages/Main';
-import About from './pages/About';
-import Form from './pages/Form';
-import Awards from './pages/Awards';
-import Experience from './pages/Experience';
-import Education from './pages/Education';
-import Images from './pages/Images';
-import Header from './pages/HeaderPage';
-import Hire from './pages/Hire';
-import Services from './pages/Services';
-import Projects from './pages/Projects';
-import News from './pages/News';
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import "./App.css";
+import Main from "./pages/Main";
+import About from "./pages/About";
+import Form from "./pages/Form";
+import Awards from "./pages/Awards";
+import Experience from "./pages/Experience";
+import Education from "./pages/Education";
+import Images from "./pages/Images";
+import Header from "./pages/HeaderPage";
+import Hire from "./pages/Hire";
+import Services from "./pages/Services";
+import Projects from "./pages/Projects";
+import News from "./pages/News";
 
 // import { FirebaseCMSApp } from "@firecms/core";
 
-
 // import { collections } from './Cms';
 // import { db } from './Firebase';
-
 
 function App() {
   return (
